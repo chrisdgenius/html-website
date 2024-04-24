@@ -1,0 +1,27 @@
+  h1{color: rgb(27, 211, 211);text-align: center;}
+  h2{color: rgb(218, 123, 131);text-align: center;}
+  h3{color: rgb(50, 15, 90);text-align: center;}
+  h4{color: rgb(39, 177, 39);text-align: center;}
+  h5{color: rgb(192, 221, 30);text-align: center;}
+
+  p {
+    color: rgb(22, 32, 182);
+    text-align: center;
+  } 
+
+  img{
+    height: 10%;
+    width: 10%;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  a {
+    display: block;
+    width: 113px;
+    margin: auto; 
+    }
